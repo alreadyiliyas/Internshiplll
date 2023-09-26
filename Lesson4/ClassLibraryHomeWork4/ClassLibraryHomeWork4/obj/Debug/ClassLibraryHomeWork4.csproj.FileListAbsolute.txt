@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\CsharpLesson\Lesson4\ClassLibraryHomeWork4\ClassLibraryHomeWork4\obj\Debug\ClassLibraryHomeWork4.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson4\ClassLibraryHomeWork4\ClassLibraryHomeWork4\obj\Debug\ClassLibraryHomeWork4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson4\ClassLibraryHomeWork4\ClassLibraryHomeWork4\bin\Debug\ConsoleApp.HomeWork4.dll
+C:\Users\User\source\repos\CsharpLesson\Lesson4\ClassLibraryHomeWork4\ClassLibraryHomeWork4\bin\Debug\ConsoleApp.HomeWork4.pdb
+C:\Users\User\source\repos\CsharpLesson\Lesson4\ClassLibraryHomeWork4\ClassLibraryHomeWork4\obj\Debug\ConsoleApp.HomeWork4.dll
+C:\Users\User\source\repos\CsharpLesson\Lesson4\ClassLibraryHomeWork4\ClassLibraryHomeWork4\obj\Debug\ConsoleApp.HomeWork4.pdb
