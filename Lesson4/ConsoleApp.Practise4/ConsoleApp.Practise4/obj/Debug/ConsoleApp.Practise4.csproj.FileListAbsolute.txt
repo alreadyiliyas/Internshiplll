@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\CsharpLesson\Lesson4\ConsoleApp.Practise4\ConsoleApp.Practise4\bin\Debug\ConsoleApp.Practise4.exe.config
+C:\Users\User\source\repos\CsharpLesson\Lesson4\ConsoleApp.Practise4\ConsoleApp.Practise4\bin\Debug\ConsoleApp.Practise4.exe
+C:\Users\User\source\repos\CsharpLesson\Lesson4\ConsoleApp.Practise4\ConsoleApp.Practise4\bin\Debug\ConsoleApp.Practise4.pdb
+C:\Users\User\source\repos\CsharpLesson\Lesson4\ConsoleApp.Practise4\ConsoleApp.Practise4\obj\Debug\ConsoleApp.Practise4.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson4\ConsoleApp.Practise4\ConsoleApp.Practise4\obj\Debug\ConsoleApp.Practise4.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson4\ConsoleApp.Practise4\ConsoleApp.Practise4\obj\Debug\ConsoleApp.Practise4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson4\ConsoleApp.Practise4\ConsoleApp.Practise4\obj\Debug\ConsoleApp.Practise4.csproj.CopyComplete
+C:\Users\User\source\repos\CsharpLesson\Lesson4\ConsoleApp.Practise4\ConsoleApp.Practise4\obj\Debug\ConsoleApp.Practise4.exe
+C:\Users\User\source\repos\CsharpLesson\Lesson4\ConsoleApp.Practise4\ConsoleApp.Practise4\obj\Debug\ConsoleApp.Practise4.pdb
+C:\Users\User\source\repos\CsharpLesson\Lesson4\ConsoleApp.Practise4\ConsoleApp.Practise4\bin\Debug\ClassLibraryPractise4.dll
+C:\Users\User\source\repos\CsharpLesson\Lesson4\ConsoleApp.Practise4\ConsoleApp.Practise4\bin\Debug\ClassLibraryPractise4.pdb

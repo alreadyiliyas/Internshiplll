@@ -1,0 +1,8 @@
+D:\Projects\c#\dotNET-Module-1-HomeWork\dotNET_Module_1_HomeWork\dotNET_Module_1_HomeWork\bin\Debug\dotNET_Module_1_HomeWork.exe.config
+D:\Projects\c#\dotNET-Module-1-HomeWork\dotNET_Module_1_HomeWork\dotNET_Module_1_HomeWork\bin\Debug\dotNET_Module_1_HomeWork.exe
+D:\Projects\c#\dotNET-Module-1-HomeWork\dotNET_Module_1_HomeWork\dotNET_Module_1_HomeWork\bin\Debug\dotNET_Module_1_HomeWork.pdb
+D:\Projects\c#\dotNET-Module-1-HomeWork\dotNET_Module_1_HomeWork\dotNET_Module_1_HomeWork\obj\Debug\dotNET_Module_1_HomeWork.csproj.AssemblyReference.cache
+D:\Projects\c#\dotNET-Module-1-HomeWork\dotNET_Module_1_HomeWork\dotNET_Module_1_HomeWork\obj\Debug\dotNET_Module_1_HomeWork.csproj.SuggestedBindingRedirects.cache
+D:\Projects\c#\dotNET-Module-1-HomeWork\dotNET_Module_1_HomeWork\dotNET_Module_1_HomeWork\obj\Debug\dotNET_Module_1_HomeWork.csproj.CoreCompileInputs.cache
+D:\Projects\c#\dotNET-Module-1-HomeWork\dotNET_Module_1_HomeWork\dotNET_Module_1_HomeWork\obj\Debug\dotNET_Module_1_HomeWork.exe
+D:\Projects\c#\dotNET-Module-1-HomeWork\dotNET_Module_1_HomeWork\dotNET_Module_1_HomeWork\obj\Debug\dotNET_Module_1_HomeWork.pdb
