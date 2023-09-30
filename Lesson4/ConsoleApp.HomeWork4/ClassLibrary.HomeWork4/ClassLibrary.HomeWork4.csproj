@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{87F6CAE4-4097-479F-A31F-0BB782850996}</ProjectGuid>
+    <ProjectGuid>{F8921487-25ED-4FC5-A9C4-D90757E0B574}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ClassLibraryHomeWork4</RootNamespace>
-    <AssemblyName>ConsoleApp.HomeWork4</AssemblyName>
+    <RootNamespace>ClassLibrary.HomeWork4</RootNamespace>
+    <AssemblyName>ClassLibrary.HomeWork4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

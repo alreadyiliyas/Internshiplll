@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные со сборкой.
-[assembly: AssemblyTitle("ClassLibraryHomeWork4")]
+[assembly: AssemblyTitle("ClassLibrary.HomeWork4")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ClassLibraryHomeWork4")]
+[assembly: AssemblyProduct("ClassLibrary.HomeWork4")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("87f6cae4-4097-479f-a31f-0bb782850996")]
+[assembly: Guid("f8921487-25ed-4fc5-a9c4-d90757e0b574")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

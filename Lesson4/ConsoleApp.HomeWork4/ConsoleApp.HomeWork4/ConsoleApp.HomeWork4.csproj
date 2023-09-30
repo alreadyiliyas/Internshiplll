@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{63E71333-D3E5-46DF-B69E-0B0E3FB2A14F}</ProjectGuid>
+    <ProjectGuid>{1E188CCD-20BE-4696-900D-21727001AEAE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ConsoleApp.HomeWork4</RootNamespace>
     <AssemblyName>ConsoleApp.HomeWork4</AssemblyName>
@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\ClassLibraryHomeWork4\ClassLibraryHomeWork4\ClassLibraryHomeWork4.csproj">
-      <Project>{87f6cae4-4097-479f-a31f-0bb782850996}</Project>
-      <Name>ClassLibraryHomeWork4</Name>
+    <ProjectReference Include="..\ClassLibrary.HomeWork4\ClassLibrary.HomeWork4.csproj">
+      <Project>{f8921487-25ed-4fc5-a9c4-d90757e0b574}</Project>
+      <Name>ClassLibrary.HomeWork4</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
