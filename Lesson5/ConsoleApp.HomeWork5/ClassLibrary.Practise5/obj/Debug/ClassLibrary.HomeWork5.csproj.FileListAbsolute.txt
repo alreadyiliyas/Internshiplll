@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\CsharpLesson\Lesson5\ConsoleApp.HomeWork5\ClassLibrary.Practise5\bin\Debug\ClassLibrary.Practise5.dll
+C:\Users\User\source\repos\CsharpLesson\Lesson5\ConsoleApp.HomeWork5\ClassLibrary.Practise5\bin\Debug\ClassLibrary.Practise5.pdb
+C:\Users\User\source\repos\CsharpLesson\Lesson5\ConsoleApp.HomeWork5\ClassLibrary.Practise5\obj\Debug\ClassLibrary.HomeWork5.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson5\ConsoleApp.HomeWork5\ClassLibrary.Practise5\obj\Debug\ClassLibrary.HomeWork5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson5\ConsoleApp.HomeWork5\ClassLibrary.Practise5\obj\Debug\ClassLibrary.Practise5.dll
+C:\Users\User\source\repos\CsharpLesson\Lesson5\ConsoleApp.HomeWork5\ClassLibrary.Practise5\obj\Debug\ClassLibrary.Practise5.pdb
