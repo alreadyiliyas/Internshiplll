@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\CsharpLesson\Lesson6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\bin\Debug\ConsoleApp.HomeWork6.exe.config
+C:\Users\User\source\repos\CsharpLesson\Lesson6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\bin\Debug\ConsoleApp.HomeWork6.exe
+C:\Users\User\source\repos\CsharpLesson\Lesson6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\bin\Debug\ConsoleApp.HomeWork6.pdb
+C:\Users\User\source\repos\CsharpLesson\Lesson6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\bin\Debug\ClassLibrary.HomeWork6.dll
+C:\Users\User\source\repos\CsharpLesson\Lesson6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\bin\Debug\ClassLibrary.HomeWork6.pdb
+C:\Users\User\source\repos\CsharpLesson\Lesson6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\obj\Debug\ConsoleApp.HomeWork6.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\obj\Debug\ConsoleApp.HomeWork6.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\obj\Debug\ConsoleApp.HomeWork6.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\obj\Debug\ConsoleApp.HomeWork6.csproj.CopyComplete
+C:\Users\User\source\repos\CsharpLesson\Lesson6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\obj\Debug\ConsoleApp.HomeWork6.exe
+C:\Users\User\source\repos\CsharpLesson\Lesson6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\ConsoleApp.HomeWork6\obj\Debug\ConsoleApp.HomeWork6.pdb
