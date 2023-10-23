@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\CsharpLesson\Lesson7\ConsoleApp.Practise7\ClassLibrary.Practise7\bin\Debug\ClassLibrary.Practise7.dll
+C:\Users\User\source\repos\CsharpLesson\Lesson7\ConsoleApp.Practise7\ClassLibrary.Practise7\bin\Debug\ClassLibrary.Practise7.pdb
+C:\Users\User\source\repos\CsharpLesson\Lesson7\ConsoleApp.Practise7\ClassLibrary.Practise7\obj\Debug\ClassLibrary.Practise7.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson7\ConsoleApp.Practise7\ClassLibrary.Practise7\obj\Debug\ClassLibrary.Practise7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson7\ConsoleApp.Practise7\ClassLibrary.Practise7\obj\Debug\ClassLibrary.Practise7.dll
+C:\Users\User\source\repos\CsharpLesson\Lesson7\ConsoleApp.Practise7\ClassLibrary.Practise7\obj\Debug\ClassLibrary.Practise7.pdb

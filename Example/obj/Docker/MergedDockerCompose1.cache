@@ -1,0 +1,99 @@
+name: dockercompose11952808322185301014
+services:
+  backend:
+    build:
+      context: C:\Users\User\source\repos\CsharpLesson\Example
+      dockerfile: Example/Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: Example
+      target: base
+    container_name: Example
+    entrypoint:
+    - tail
+    - -f
+    - /dev/null
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      DOTNET_USE_POLLING_FILE_WATCHER: "1"
+      NUGET_FALLBACK_PACKAGES: ""
+    image: example:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages  "/app/bin/Debug/net6.0/Example.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
+        dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "5000"
+      protocol: tcp
+    tty: true
+    volumes:
+    - type: bind
+      source: C:\Users\User\source\repos\CsharpLesson\Example\Example
+      target: /app
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\User\source\repos\CsharpLesson\Example
+      target: /src
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\User\vsdbg\vs2017u5
+      target: /remote_debugger
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\User\.nuget\packages\
+      target: /root/.nuget/packages
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\User\AppData\Roaming/ASP.NET/Https
+      target: /root/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\User\AppData\Roaming/Microsoft/UserSecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+  client:
+    build:
+      context: C:\Users\User\source\repos\CsharpLesson\Example\example-client
+      dockerfile: Dockerfile
+    image: client
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 3000
+      published: "5001"
+      protocol: tcp
+  proxy:
+    image: nginx:mainline
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "80"
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: C:\Users\User\source\repos\CsharpLesson\Example\nginx.conf
+      target: /etc/nginx/nginx.conf
+      bind:
+        create_host_path: true
+networks:
+  default:
+    name: dockercompose11952808322185301014_default

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\CsharpLesson\Lesson7\ConsoleApp.Practise7\ConsoleApp.Practise7\bin\Debug\ConsoleApp.Practise7.exe.config
+C:\Users\User\source\repos\CsharpLesson\Lesson7\ConsoleApp.Practise7\ConsoleApp.Practise7\bin\Debug\ConsoleApp.Practise7.exe
+C:\Users\User\source\repos\CsharpLesson\Lesson7\ConsoleApp.Practise7\ConsoleApp.Practise7\bin\Debug\ConsoleApp.Practise7.pdb
+C:\Users\User\source\repos\CsharpLesson\Lesson7\ConsoleApp.Practise7\ConsoleApp.Practise7\bin\Debug\ClassLibrary.Practise7.dll
+C:\Users\User\source\repos\CsharpLesson\Lesson7\ConsoleApp.Practise7\ConsoleApp.Practise7\bin\Debug\ClassLibrary.Practise7.pdb
+C:\Users\User\source\repos\CsharpLesson\Lesson7\ConsoleApp.Practise7\ConsoleApp.Practise7\obj\Debug\ConsoleApp.Practise7.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson7\ConsoleApp.Practise7\ConsoleApp.Practise7\obj\Debug\ConsoleApp.Practise7.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson7\ConsoleApp.Practise7\ConsoleApp.Practise7\obj\Debug\ConsoleApp.Practise7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson7\ConsoleApp.Practise7\ConsoleApp.Practise7\obj\Debug\ConsoleApp.Practise7.csproj.CopyComplete
+C:\Users\User\source\repos\CsharpLesson\Lesson7\ConsoleApp.Practise7\ConsoleApp.Practise7\obj\Debug\ConsoleApp.Practise7.exe
+C:\Users\User\source\repos\CsharpLesson\Lesson7\ConsoleApp.Practise7\ConsoleApp.Practise7\obj\Debug\ConsoleApp.Practise7.pdb
