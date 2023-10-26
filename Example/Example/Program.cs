@@ -7,11 +7,15 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+
 var app = builder.Build();
+
+app.UseWebSockets();
+
 
 app.UseCors(options =>
 {
-    options.AllowAnyOrigin()
+    options.WithOrigins("*")
            .AllowAnyMethod()
            .AllowAnyHeader();
 });

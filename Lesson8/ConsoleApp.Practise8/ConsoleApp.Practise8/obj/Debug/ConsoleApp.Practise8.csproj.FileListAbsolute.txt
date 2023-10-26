@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\CsharpLesson\Lesson8\ConsoleApp.Practise8\ConsoleApp.Practise8\bin\Debug\ConsoleApp.Practise8.exe.config
+C:\Users\User\source\repos\CsharpLesson\Lesson8\ConsoleApp.Practise8\ConsoleApp.Practise8\bin\Debug\ConsoleApp.Practise8.exe
+C:\Users\User\source\repos\CsharpLesson\Lesson8\ConsoleApp.Practise8\ConsoleApp.Practise8\bin\Debug\ConsoleApp.Practise8.pdb
+C:\Users\User\source\repos\CsharpLesson\Lesson8\ConsoleApp.Practise8\ConsoleApp.Practise8\obj\Debug\ConsoleApp.Practise8.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson8\ConsoleApp.Practise8\ConsoleApp.Practise8\obj\Debug\ConsoleApp.Practise8.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson8\ConsoleApp.Practise8\ConsoleApp.Practise8\obj\Debug\ConsoleApp.Practise8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson8\ConsoleApp.Practise8\ConsoleApp.Practise8\obj\Debug\ConsoleApp.Practise8.exe
+C:\Users\User\source\repos\CsharpLesson\Lesson8\ConsoleApp.Practise8\ConsoleApp.Practise8\obj\Debug\ConsoleApp.Practise8.pdb

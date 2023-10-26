@@ -6,6 +6,7 @@ C:\Users\User\source\repos\CsharpLesson\Example\Example\bin\Debug\net6.0\Example
 C:\Users\User\source\repos\CsharpLesson\Example\Example\bin\Debug\net6.0\Example.dll
 C:\Users\User\source\repos\CsharpLesson\Example\Example\bin\Debug\net6.0\Example.pdb
 C:\Users\User\source\repos\CsharpLesson\Example\Example\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\source\repos\CsharpLesson\Example\Example\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\User\source\repos\CsharpLesson\Example\Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\User\source\repos\CsharpLesson\Example\Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\User\source\repos\CsharpLesson\Example\Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll

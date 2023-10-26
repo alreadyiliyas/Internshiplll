@@ -9,7 +9,7 @@ services:
    
   client:
     ports:
-      - "5001:3000"
+      - "3000:3000"
 
   proxy:
     volumes:

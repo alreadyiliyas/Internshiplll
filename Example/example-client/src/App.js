@@ -1,36 +1,65 @@
-import {Component} from "react";
-
+import React, {Component} from "react";
+import GetUsers from "./Service/getUsers";
+import GetCurrency from "./Service/getCurrency";
 
 class App extends Component {
-  constructor() {
-    super();
-    this.state = {
-      users: []
+    constructor() {
+        super();
+        this.state = {
+            currencies: [],
+            selectedCurrency: '',
+        };
     }
-  }
 
-  getUsers = async () => {
-    var res = await fetch(
-       'http://localhost:5000/api/users',
-        {
-          method: 'get'
+    sendCurrencyToServer = async (selectedCurrency) => {
+        try {
+            const res = await fetch(
+                'http://localhost:5000/api/currency/exchangeRate',
+                {
+                    method: 'post',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ selectedCurrency }),
+                }
+            );
+            const resJson = await res.json();
+            this.setState({
+                currencies: resJson,
+            });
+        } catch (error) {
+            console.error('Ошибка при получении данных:', error);
         }
-    )
+    }
 
-    var resJson = await res.json();
-    this.setState({
-      users: resJson
-    })
-  }
-  render() {
-    const users = this.state.users.map((item, index) => <li key={index}>{item.FName}</li>)
-    return (
-        <div className='App'>
-          <button onClick={this.getUsers}>Загрузить список пользователей</button>
-          <ul>{users}</ul>
-        </div>
-    )
-  }
+    handleCurrencyChange = (event) => {
+        const selectedCurrency = event.target.value;
+        this.sendCurrencyToServer(selectedCurrency);
+        this.setState({ selectedCurrency });
+    }
+
+    render() {
+        const { currencies, selectedCurrency } = this.state;
+        return (
+            <div>
+                <select onChange={this.handleCurrencyChange} value={selectedCurrency}>
+                    <option value="USD">Доллар</option>
+                    <option value="RUB">Рубль</option>
+                    <option value="EUR">Еуро</option>
+                    <option value="AED">Арабский кувейт</option>
+                    <option value="INR">Индийский рупий</option>
+                </select>
+                <div>
+                    {currencies.map((currency, index) => (
+                        <div key={index}>
+                            <span>Название: {currency.value}</span>
+                            <span>Код: {currency.data.code}</span>
+                        </div>
+                    ))}
+                </div>
+            </div>
+        );
+    }
 }
 
 

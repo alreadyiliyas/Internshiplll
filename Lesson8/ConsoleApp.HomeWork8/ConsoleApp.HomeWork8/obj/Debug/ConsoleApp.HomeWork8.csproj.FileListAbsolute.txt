@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\CsharpLesson\Lesson8\ConsoleApp.HomeWork8\ConsoleApp.HomeWork8\bin\Debug\ConsoleApp.HomeWork8.exe.config
+C:\Users\User\source\repos\CsharpLesson\Lesson8\ConsoleApp.HomeWork8\ConsoleApp.HomeWork8\bin\Debug\ConsoleApp.HomeWork8.exe
+C:\Users\User\source\repos\CsharpLesson\Lesson8\ConsoleApp.HomeWork8\ConsoleApp.HomeWork8\bin\Debug\ConsoleApp.HomeWork8.pdb
+C:\Users\User\source\repos\CsharpLesson\Lesson8\ConsoleApp.HomeWork8\ConsoleApp.HomeWork8\obj\Debug\ConsoleApp.HomeWork8.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson8\ConsoleApp.HomeWork8\ConsoleApp.HomeWork8\obj\Debug\ConsoleApp.HomeWork8.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson8\ConsoleApp.HomeWork8\ConsoleApp.HomeWork8\obj\Debug\ConsoleApp.HomeWork8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson8\ConsoleApp.HomeWork8\ConsoleApp.HomeWork8\obj\Debug\ConsoleApp.HomeWork8.exe
+C:\Users\User\source\repos\CsharpLesson\Lesson8\ConsoleApp.HomeWork8\ConsoleApp.HomeWork8\obj\Debug\ConsoleApp.HomeWork8.pdb
