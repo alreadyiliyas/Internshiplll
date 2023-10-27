@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\CsharpLesson\Lesson9\ConsoleApp.Practise9\ConsoleApp.Practise9\bin\Debug\ConsoleApp.Practise9.exe.config
+C:\Users\User\source\repos\CsharpLesson\Lesson9\ConsoleApp.Practise9\ConsoleApp.Practise9\bin\Debug\ConsoleApp.Practise9.exe
+C:\Users\User\source\repos\CsharpLesson\Lesson9\ConsoleApp.Practise9\ConsoleApp.Practise9\bin\Debug\ConsoleApp.Practise9.pdb
+C:\Users\User\source\repos\CsharpLesson\Lesson9\ConsoleApp.Practise9\ConsoleApp.Practise9\obj\Debug\ConsoleApp.Practise9.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson9\ConsoleApp.Practise9\ConsoleApp.Practise9\obj\Debug\ConsoleApp.Practise9.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson9\ConsoleApp.Practise9\ConsoleApp.Practise9\obj\Debug\ConsoleApp.Practise9.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson9\ConsoleApp.Practise9\ConsoleApp.Practise9\obj\Debug\ConsoleApp.Practise9.exe
+C:\Users\User\source\repos\CsharpLesson\Lesson9\ConsoleApp.Practise9\ConsoleApp.Practise9\obj\Debug\ConsoleApp.Practise9.pdb
+C:\Users\User\source\repos\CsharpLesson\Lesson9\ConsoleApp.Practise9\ConsoleApp.Practise9\bin\Debug\ClassLibrary.Practise9.dll
+C:\Users\User\source\repos\CsharpLesson\Lesson9\ConsoleApp.Practise9\ConsoleApp.Practise9\bin\Debug\ClassLibrary.Practise9.pdb
+C:\Users\User\source\repos\CsharpLesson\Lesson9\ConsoleApp.Practise9\ConsoleApp.Practise9\obj\Debug\ConsoleApp.Practise9.csproj.CopyComplete
