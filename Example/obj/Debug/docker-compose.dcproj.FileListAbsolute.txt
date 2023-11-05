@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\CsharpLesson\Example\bin\Debug\Example.deps.json
+C:\Users\User\source\repos\CsharpLesson\Example\bin\Debug\Example.runtimeconfig.json
+C:\Users\User\source\repos\CsharpLesson\Example\bin\Debug\appsettings.Development.json
+C:\Users\User\source\repos\CsharpLesson\Example\bin\Debug\appsettings.json
+C:\Users\User\source\repos\CsharpLesson\Example\bin\Debug\Example.exe
+C:\Users\User\source\repos\CsharpLesson\Example\bin\Debug\Example.dll
+C:\Users\User\source\repos\CsharpLesson\Example\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\source\repos\CsharpLesson\Example\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\source\repos\CsharpLesson\Example\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\source\repos\CsharpLesson\Example\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\CsharpLesson\Example\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\User\source\repos\CsharpLesson\Example\bin\Debug\Example.pdb
+C:\Users\User\source\repos\CsharpLesson\Example\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\User\source\repos\CsharpLesson\Example\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsharpLesson\Example\obj\Debug\docker-compose.dcproj.CopyComplete

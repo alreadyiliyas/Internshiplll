@@ -68,19 +68,22 @@ namespace ConsoleApp.HomeWork8
                 Console.WriteLine("Напишите кол-во людей имеющие льготы: ");
                 countPeopleWithPrivileges = Convert.ToInt32(Console.ReadLine());
             }
-            else { countPeopleWithPrivileges = 0; }
+            else 
+            { 
+                countPeopleWithPrivileges = 0; 
+            }
             ServiceEx2(inputSpace, countPeople, inputPrivileges);
 
         }
         public static void ServiceEx2(double inputSpace, int countPeople, int countPeopleWithPrivileges)
         {
             ExirciseClass2 exerciseClass2 = new ExirciseClass2();
-            exerciseClass2.Space = inputSpace;
-            exerciseClass2.Maintenance = inputSpace;
-            exerciseClass2.PriceGas = 55.1;
-            exerciseClass2.PriceLiterWater = 10.8;
+            exerciseClass2["Space"] = inputSpace;
+            exerciseClass2["Maintenance"] = inputSpace;
+            exerciseClass2["PriceGas"] = 55.1;
+            exerciseClass2["PriceLiterWater"] = 10.8;
 
-            double monthlyRate = (exerciseClass2.Maintenance + exerciseClass2.PriceGas + exerciseClass2.PriceLiterWater * exerciseClass2.Space) * countPeople;
+            double monthlyRate = (exerciseClass2["Maintenance"] + exerciseClass2["PriceGas"] + exerciseClass2["PriceLiterWater"] * exerciseClass2["Space"]) * countPeople;
 
             // Если есть люди с льготами
             if (countPeopleWithPrivileges > 0)
@@ -113,7 +116,7 @@ namespace ConsoleApp.HomeWork8
             if (exerciseClass2.IsAutumnOrWinter())
             {
                 double gasPriceIncrease = 0.25; // Увеличение цены на газ на 25% осенью и зимой
-                annualRate += (exerciseClass2.PriceGas * exerciseClass2.Space * countPeople) * gasPriceIncrease;
+                annualRate += (exerciseClass2["PriceGas"] * exerciseClass2["Space"] * countPeople) * gasPriceIncrease;
                 Console.WriteLine("Тариф за 1 год (осень/зима): " + annualRate);
             }
             else
@@ -135,38 +138,52 @@ namespace ConsoleApp.HomeWork8
     }
     public class ExirciseClass2
     {
-        private double space;
-        private double priceLiterWater;
-        private double priceGas;
-        private double maintenance;
+        public double Space { get; set; }
+        public double PriceLiterWater { get; set; }
+        public double PriceGas { get; set; }
+        public double Maintenance { get; set; }
 
-        public double Space
-        {
-            get { return space; }
-            set { space = value; }
-        }
-
-        public double PriceLiterWater
-        {
-            get { return priceLiterWater; }
-            set { priceLiterWater = value; }
-        }
-
-        public double PriceGas
-        {
-            get { return priceGas; }
-            set { priceGas = value; }
-        }
-
-        public double Maintenance
-        {
-            get { return maintenance; } 
-            set { maintenance = value; }
-        }
         public bool IsAutumnOrWinter()
         {
             int currentMonth = DateTime.Now.Month;
             return currentMonth >= 10 || currentMonth <= 3;
+        }
+        public double this[string parameter]
+        {
+            get
+            {
+                switch (parameter)
+                {
+                    case "Space":
+                        return Space;
+                    case "PriceLiterWater":
+                        return PriceLiterWater;
+                    case "PriceGas":
+                        return PriceGas;
+                    case "Maintenance":
+                        return Maintenance;
+                    default:
+                        return 1;
+                }
+            }
+            set
+            {
+                switch (parameter)
+                {
+                    case "Space":
+                        Space = value;
+                        break;
+                    case "PriceLiterWater":
+                        PriceLiterWater = value;
+                        break;
+                    case "PriceGas":
+                        PriceGas = value;
+                        break;
+                    case "Maintenance":
+                        Maintenance = value;
+                        break;
+                }
+            }
         }
     }
 }
