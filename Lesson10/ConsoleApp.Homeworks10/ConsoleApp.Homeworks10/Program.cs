@@ -52,6 +52,36 @@ namespace ConsoleApp.Homeworks10
                 person.PrintPersonInfo();
                 Console.WriteLine(person.ToString());
             }
+            Console.WriteLine("Перевод на курс выше");
+
+            int personCount = 0;
+            int studentCount = 0;
+            int teacherCount = 0;
+            foreach (Person person in persons)
+            {
+                personCount++;
+
+                if (person is Student)
+                {
+                    studentCount++;
+
+                    Student student = person as Student;
+                    if (student != null)
+                    {
+                        student.StudCourse++;
+                    }
+                }
+                else if (person is Teacher)
+                {
+                    teacherCount++;
+                }
+            }
+
+            foreach (Person person in persons)
+            {
+                person.PrintPersonInfo();
+                Console.WriteLine(person.ToString());
+            }
 
         }
     }
