@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Homeworks10
 {
-    public class Person
+    public class Person : IPerson
     {
-        public int Id { get; }
+        public int Id { get; set; }
         public string FName { get; set; }
         public string SName { get; set; }
         public DateTime DateOfBirthday { get; set; }

@@ -11,7 +11,7 @@ namespace ConsoleApp.Homeworks10
     {
         static void Main(string[] args)
         {
-            Person[] persons = new Person[]
+            IPerson[] persons = new Person[]
             {
                 new Teacher(1, "Person teacher fname 1", "Person teacher sname 1", new DateTime(1987, 2, 15), "Math"),
                 new Teacher(2, "Person teacher fname 2", "Person teacher sname 2", new DateTime(1987, 2, 15), "History"),
