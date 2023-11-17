@@ -10,7 +10,11 @@ namespace ConsoleApp.Homework11_Exercise3_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(1);
+            Cat cat = new Cat();
+            cat.WhatEat(EFood.Milk);
+            cat.WhatEat(EFood.Fish);
+            cat.WhatEat(EFood.Meet);
+
         }
     }
 }
