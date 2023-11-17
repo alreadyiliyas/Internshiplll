@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\CsharpLesson\ConsoleApp.Practise11\ClassLibrary.Practise11\bin\Debug\ClassLibrary.Practise11.dll
+C:\Users\User\source\repos\CsharpLesson\ConsoleApp.Practise11\ClassLibrary.Practise11\bin\Debug\ClassLibrary.Practise11.pdb
+C:\Users\User\source\repos\CsharpLesson\ConsoleApp.Practise11\ClassLibrary.Practise11\obj\Debug\ClassLibrary.Practise11.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CsharpLesson\ConsoleApp.Practise11\ClassLibrary.Practise11\obj\Debug\ClassLibrary.Practise11.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsharpLesson\ConsoleApp.Practise11\ClassLibrary.Practise11\obj\Debug\ClassLibrary.Practise11.dll
+C:\Users\User\source\repos\CsharpLesson\ConsoleApp.Practise11\ClassLibrary.Practise11\obj\Debug\ClassLibrary.Practise11.pdb

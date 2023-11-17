@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\CsharpLesson\ConsoleApp.Homework11\ConsoleApp.Homework11\bin\Debug\ConsoleApp.Homework11.exe.config
+C:\Users\User\source\repos\CsharpLesson\ConsoleApp.Homework11\ConsoleApp.Homework11\bin\Debug\ConsoleApp.Homework11.exe
+C:\Users\User\source\repos\CsharpLesson\ConsoleApp.Homework11\ConsoleApp.Homework11\bin\Debug\ConsoleApp.Homework11.pdb
+C:\Users\User\source\repos\CsharpLesson\ConsoleApp.Homework11\ConsoleApp.Homework11\obj\Debug\ConsoleApp.Homework11.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CsharpLesson\ConsoleApp.Homework11\ConsoleApp.Homework11\obj\Debug\ConsoleApp.Homework11.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\CsharpLesson\ConsoleApp.Homework11\ConsoleApp.Homework11\obj\Debug\ConsoleApp.Homework11.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsharpLesson\ConsoleApp.Homework11\ConsoleApp.Homework11\obj\Debug\ConsoleApp.Homework11.exe
+C:\Users\User\source\repos\CsharpLesson\ConsoleApp.Homework11\ConsoleApp.Homework11\obj\Debug\ConsoleApp.Homework11.pdb
+C:\Users\User\source\repos\CsharpLesson\ConsoleApp.Homework11\ConsoleApp.Homework11\bin\Debug\ClassLibrary.Homework1.dll
+C:\Users\User\source\repos\CsharpLesson\ConsoleApp.Homework11\ConsoleApp.Homework11\bin\Debug\ClassLibrary.Homework1.pdb
+C:\Users\User\source\repos\CsharpLesson\ConsoleApp.Homework11\ConsoleApp.Homework11\obj\Debug\ConsoleApp.Homework11.csproj.CopyComplete
