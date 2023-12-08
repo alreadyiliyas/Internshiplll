@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\CsharpLesson\Lesson16\ConsoleApp.Practise16\ClassLibrary.Practise16\bin\Debug\ClassLibrary.Practise16.dll
+C:\Users\User\source\repos\CsharpLesson\Lesson16\ConsoleApp.Practise16\ClassLibrary.Practise16\bin\Debug\ClassLibrary.Practise16.pdb
+C:\Users\User\source\repos\CsharpLesson\Lesson16\ConsoleApp.Practise16\ClassLibrary.Practise16\obj\Debug\ClassLibrary.Practise16.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson16\ConsoleApp.Practise16\ClassLibrary.Practise16\obj\Debug\ClassLibrary.Practise16.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsharpLesson\Lesson16\ConsoleApp.Practise16\ClassLibrary.Practise16\obj\Debug\ClassLibrary.Practise16.dll
+C:\Users\User\source\repos\CsharpLesson\Lesson16\ConsoleApp.Practise16\ClassLibrary.Practise16\obj\Debug\ClassLibrary.Practise16.pdb

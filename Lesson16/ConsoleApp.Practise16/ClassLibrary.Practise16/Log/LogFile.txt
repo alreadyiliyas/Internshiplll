@@ -1,0 +1,5 @@
+08.12.2023 22:19:22: Файл переименован: C:\Users\User\source\repos\CsharpLesson\TestDir\2.txt => C:\Users\User\source\repos\CsharpLesson\TestDir\21.txt
+08.12.2023 22:21:48: Файл переименован: C:\Users\User\source\repos\CsharpLesson\TestDir\21.txt => C:\Users\User\source\repos\CsharpLesson\TestDir\йцуцйу.txt
+08.12.2023 22:24:16: Файл переименован: C:\Users\User\source\repos\CsharpLesson\TestDir\йцуцйу.txt в C:\Users\User\source\repos\CsharpLesson\TestDir\1.txt
+08.12.2023 22:24:20: Файл изменен: C:\Users\User\source\repos\CsharpLesson\TestDir\1.txt
+08.12.2023 22:27:39: Файл изменен: C:\\Users\\User\\source\\repos\\CsharpLesson\\TestDir\1.txt

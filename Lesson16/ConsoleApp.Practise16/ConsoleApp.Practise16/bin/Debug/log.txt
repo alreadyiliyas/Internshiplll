@@ -1,0 +1,3 @@
+[07.12.2023 22:39:16] Created: C:\Users\User\source\repos\CsharpLesson\Lesson16\ConsoleApp.Practise16\Новый текстовый документ.txt
+[07.12.2023 22:39:16] Created: C:\Users\User\source\repos\CsharpLesson\Lesson16\ConsoleApp.Practise16\ConsoleApp.Practise16\bin\Debug\log.txt
+[07.12.2023 22:39:17] Renamed: C:\Users\User\source\repos\CsharpLesson\Lesson16\ConsoleApp.Practise16\Новый текстовый документ.txt renamed to C:\Users\User\source\repos\CsharpLesson\Lesson16\ConsoleApp.Practise16\asdasdasd.txt
