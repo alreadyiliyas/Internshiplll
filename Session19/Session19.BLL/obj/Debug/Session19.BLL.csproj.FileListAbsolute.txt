@@ -1,0 +1,15 @@
+C:\Users\User\source\Session\Session19\Session19.BLL\bin\Debug\Session19.BLL.dll
+C:\Users\User\source\Session\Session19\Session19.BLL\bin\Debug\Session19.BLL.pdb
+C:\Users\User\source\Session\Session19\Session19.BLL\obj\Debug\Session19.BLL.csproj.AssemblyReference.cache
+C:\Users\User\source\Session\Session19\Session19.BLL\obj\Debug\Session19.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Session\Session19\Session19.BLL\obj\Debug\Session19.BLL.dll
+C:\Users\User\source\Session\Session19\Session19.BLL\obj\Debug\Session19.BLL.pdb
+C:\Users\User\source\Session\Session19\Session19.BLL\bin\Debug\AutoMapper.dll
+C:\Users\User\source\Session\Session19\Session19.BLL\bin\Debug\Session19.DAL.dll
+C:\Users\User\source\Session\Session19\Session19.BLL\bin\Debug\LiteDB.dll
+C:\Users\User\source\Session\Session19\Session19.BLL\bin\Debug\Session19.DAL.pdb
+C:\Users\User\source\Session\Session19\Session19.BLL\bin\Debug\AutoMapper.xml
+C:\Users\User\source\Session\Session19\Session19.BLL\bin\Debug\LiteDB.xml
+C:\Users\User\source\Session\Session19\Session19.BLL\obj\Debug\Session19.BLL.csproj.CopyComplete
+C:\Users\User\source\Session\Session19\Session19.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\Session\Session19\Session19.BLL\bin\Debug\Newtonsoft.Json.xml

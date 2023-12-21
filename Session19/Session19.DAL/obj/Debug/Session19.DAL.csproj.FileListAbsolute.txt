@@ -1,0 +1,11 @@
+C:\Users\User\source\Session\Session19\Session19.DAL\bin\Debug\Session19.DAL.dll
+C:\Users\User\source\Session\Session19\Session19.DAL\bin\Debug\Session19.DAL.pdb
+C:\Users\User\source\Session\Session19\Session19.DAL\bin\Debug\NuGet.Frameworks.dll
+C:\Users\User\source\Session\Session19\Session19.DAL\bin\Debug\NuGet.Frameworks.xml
+C:\Users\User\source\Session\Session19\Session19.DAL\obj\Debug\Session19.DAL.csproj.AssemblyReference.cache
+C:\Users\User\source\Session\Session19\Session19.DAL\obj\Debug\Session19.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Session\Session19\Session19.DAL\obj\Debug\Session19.DAL.csproj.CopyComplete
+C:\Users\User\source\Session\Session19\Session19.DAL\obj\Debug\Session19.DAL.dll
+C:\Users\User\source\Session\Session19\Session19.DAL\obj\Debug\Session19.DAL.pdb
+C:\Users\User\source\Session\Session19\Session19.DAL\bin\Debug\LiteDB.dll
+C:\Users\User\source\Session\Session19\Session19.DAL\bin\Debug\LiteDB.xml

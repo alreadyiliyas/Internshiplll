@@ -1,0 +1,91 @@
+using Newtonsoft.Json;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net.Http;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Session19
+{
+	class Program
+	{
+		private const string ApiKey = "3f11847bfffbc3d341a071216c4c4730";
+		private const string ApiUrl = "http://api.exchangeratesapi.io/v1/latest";
+
+		private static Dictionary<string, decimal> exchangeRates;
+		private static DateTime lastUpdate;
+
+		static async Task Main()
+		{
+			exchangeRates = new Dictionary<string, decimal>();
+			lastUpdate = DateTime.MinValue;
+
+			// Загрузка курсов валют при запуске приложения
+			await UpdateExchangeRates();
+
+			while (true)
+			{
+				Console.WriteLine("Введите исходную валюту (код, например, USD): ");
+				string sourceCurrency = Console.ReadLine();
+
+				Console.WriteLine("Введите целевую валюту (код, например, EUR): ");
+				string targetCurrency = Console.ReadLine();
+
+				Console.WriteLine("Введите сумму для конвертации: ");
+				if (decimal.TryParse(Console.ReadLine(), out decimal amount))
+				{
+					decimal convertedAmount = ConvertCurrency(amount, sourceCurrency, targetCurrency);
+					Console.WriteLine($"Конвертированная сумма: {convertedAmount:F2} {targetCurrency}");
+				}
+				else
+				{
+					Console.WriteLine("Введите корректное число в поле суммы.");
+				}
+			}
+		}
+
+		private static async Task UpdateExchangeRates()
+		{
+			try
+			{
+				string url = $"{ApiUrl}?access_key={ApiKey}";
+
+				using (var httpClient = new HttpClient())
+				{
+					HttpResponseMessage response = await httpClient.GetAsync(url);
+					response.EnsureSuccessStatusCode();
+
+					string json = await response.Content.ReadAsStringAsync();
+					ExchangeRateResponse rateResponse = JsonConvert.DeserializeObject<ExchangeRateResponse>(json);
+
+					// Сохраняем курсы валют в локальном кеше
+					exchangeRates = rateResponse.Rates;
+					lastUpdate = DateTime.Now;
+				}
+			}
+			catch (Exception ex)
+			{
+				Console.WriteLine($"Ошибка при обновлении курсов валют: {ex.Message}");
+			}
+		}
+
+		private static decimal ConvertCurrency(decimal amount, string sourceCurrency, string targetCurrency)
+		{
+			if (exchangeRates.ContainsKey(sourceCurrency) && exchangeRates.ContainsKey(targetCurrency))
+			{
+				decimal sourceRate = exchangeRates[sourceCurrency];
+				decimal targetRate = exchangeRates[targetCurrency];
+
+				// Рассчитываем конвертированную сумму
+				return amount * (targetRate / sourceRate);
+			}
+
+			return 0;
+		}
+	}
+	public class ExchangeRateResponse
+	{
+		public Dictionary<string, decimal> Rates { get; set; }
+	}
+}
